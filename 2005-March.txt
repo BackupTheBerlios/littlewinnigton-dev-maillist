@@ -1,0 +1,433 @@
+From pharum at hazadrim.com  Fri Mar 25 19:45:17 2005
+From: pharum at hazadrim.com (Matthias Reichmann)
+Date: Fri, 25 Mar 2005 19:45:17 +0100
+Subject: [Littlewinnigton-dev] Testnachricht
+Message-ID: <42445C3D.4020704@hazadrim.com>
+
+Sind wir alle nicht ein bisschen (B)Luna?
+
+
+From JGiesecke at gmx.net  Fri Mar 25 19:46:44 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Fri, 25 Mar 2005 19:46:44 +0100
+Subject: [Littlewinnigton-dev] Test
+Message-ID: <42445C94.9000806@gmx.net>
+
+blubb. muuuuh. test :)
+
+Greeeeeetz, Jan
+
+
+From JGiesecke at gmx.net  Fri Mar 25 19:58:47 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Fri, 25 Mar 2005 19:58:47 +0100
+Subject: [Littlewinnigton-dev] Noch ein Test
+Message-ID: <42445F67.2010303@gmx.net>
+
+Dies ist noch ein Test, in dem der neue Reply-to: Header getestet wird, 
+da pharum einfach auf "Antworten" gedr?ckt hat, ohne zu pr?fen, ob die 
+Nachricht an mich pers?nlich geht, oder an die Liste :P
+
+
+From daniel.hassler at gmail.com  Fri Mar 25 23:22:04 2005
+From: daniel.hassler at gmail.com (Daniel)
+Date: Fri, 25 Mar 2005 23:22:04 +0100
+Subject: [Littlewinnigton-dev] Test
+In-Reply-To: <42445C94.9000806@gmx.net>
+References: <42445C94.9000806@gmx.net>
+Message-ID: <200503252322.10175.daniel.hassler@gmail.com>
+
+On Friday 25 March 2005 19:46, Jan Giesecke wrote:
+> blubb. muuuuh. test :)
+>
+> Greeeeeetz, Jan
+
+test, test, test :) 
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/littlewinnigton-dev/attachments/20050325/7e7d61bf/attachment.pgp>
+
+From pharum at hazadrim.com  Sat Mar 26 07:46:22 2005
+From: pharum at hazadrim.com (Matthias Reichmann)
+Date: Sat, 26 Mar 2005 07:46:22 +0100
+Subject: [Littlewinnigton-dev] Noch ein Test
+In-Reply-To: <42445F67.2010303@gmx.net>
+References: <42445F67.2010303@gmx.net>
+Message-ID: <4245053E.4070407@hazadrim.com>
+
+Der Reply-To-Header geht immernoch ne... machs ma richtig ;)
+Nebenbei erw?hnt komm ich nich angemeldet auf den SVN..... als Anonymous 
+gehts, aber wenn ich die URL benutz, wo man sich anmelden muss, dann 
+sagt der, der findet die nich... -.-
+
+> Dies ist noch ein Test, in dem der neue Reply-to: Header getestet 
+> wird, da pharum einfach auf "Antworten" gedr?ckt hat, ohne zu pr?fen, 
+> ob die Nachricht an mich pers?nlich geht, oder an die Liste :P
+> _______________________________________________
+> Littlewinnigton-dev mailing list
+> Littlewinnigton-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/littlewinnigton-dev
+>
+>
+
+
+
+From daniel.hassler at gmail.com  Sat Mar 26 15:35:58 2005
+From: daniel.hassler at gmail.com (Daniel)
+Date: Sat, 26 Mar 2005 15:35:58 +0100
+Subject: [Littlewinnigton-dev] Neuer Test
+Message-ID: <200503261536.03192.daniel.hassler@gmail.com>
+
+Test test *oink* *oink*
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/littlewinnigton-dev/attachments/20050326/d07326fa/attachment.pgp>
+
+From daniel.hassler at gmail.com  Sat Mar 26 15:38:33 2005
+From: daniel.hassler at gmail.com (Daniel)
+Date: Sat, 26 Mar 2005 15:38:33 +0100
+Subject: [Littlewinnigton-dev] Coding Guideline
+Message-ID: <200503261538.37745.daniel.hassler@gmail.com>
+
+Hallo,
+
+ich habe mal "Coding_Guidelines" geschrieben und stelle sie hier zur 
+Diskussion. Das sind alles nur Vorschl?ge von mir und sie sind auch noch 
+nicht komplett. Die Guideline ist im svn.
+
+Kritik und Erg?nzungen erw?nscht :)
+
+mfg ogb
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/littlewinnigton-dev/attachments/20050326/f8d2938e/attachment.pgp>
+
+From daniel.hassler at gmail.com  Sat Mar 26 13:37:07 2005
+From: daniel.hassler at gmail.com (Daniel)
+Date: Sat, 26 Mar 2005 13:37:07 +0100
+Subject: [Littlewinnigton-dev] Coding Guidelines
+Message-ID: <200503261337.12335.daniel.hassler@gmail.com>
+
+Hallo,
+
+ich habe mal "Coding_Guidelines" geschrieben und stelle sie hier zur 
+Diskussion. Das sind alles nur Vorschl?ge von mir und sie sind auch noch 
+nicht komplett.
+
+Kritik und Erg?nzungen erw?nscht :)
+
+mfg ogb
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/littlewinnigton-dev/attachments/20050326/9efbfee7/attachment.pgp>
+
+From JGiesecke at gmx.net  Wed Mar 30 16:43:25 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Wed, 30 Mar 2005 16:43:25 +0200
+Subject: [Littlewinnigton-dev] Engine
+Message-ID: <424ABB0D.10207@gmx.net>
+
+Hi :)
+
+Bei der Suche nach einer Engine sind mir mehrere ins Auge gefallen. Ich 
+werde die hier kurz vorstellen und zur Diskussion stellen.
+
+Crystal Space
+-------------
+
+CS ist eine sehr umfangreiche und beliebte Spiele-Engine. Die Features 
+sind unter 
+http://crystal.sourceforge.net/docs/online/manual-0.98/cs_6.html 
+aufgelistet.
+Bei CS sind bereits Routinen f?r Sound und so enthalten.
+
+OGRE
+----
+
+OGRE ist eine reine Grafik-Engine, also nicht so auf Spiele orientiert, 
+wie CS. Allerdings ist sie auch unter den Spielemachern sehr beliebt.
+Features: http://www.ogre3d.org/wiki/index.php/CurrentOgreFeatures
+
+Irrlicht
+--------
+
+Recht frische, allerdings nur von einer einzigen Person entwickelte 
+Engine. Die Screenshots sehen vielversprechend aus.
+Features: http://irrlicht.sourceforge.net/features.html
+
+NeoEngine
+---------
+
+Hab ich nur zuf?llig gefunden, hab's mir aber noch nicht genauer 
+angesehen. :D
+http://neoengine.emedia-solutions-wolf.de/
+
+Sooo... Das w?re dann sozusagen die engere Auswahl, die wir noch mehr 
+einengen m?ssen, so dass genau eine ?brig bleibt :D
+Wie sch?tzt ihr die Lage ein? Welche w?rdet ihr nehmen?
+
+Gru?, Jan
+
+
+From daniel.hassler at gmail.com  Wed Mar 30 16:54:29 2005
+From: daniel.hassler at gmail.com (daniel)
+Date: Wed, 30 Mar 2005 16:54:29 +0200
+Subject: [Littlewinnigton-dev] Engine
+In-Reply-To: <424ABB0D.10207@gmx.net>
+References: <424ABB0D.10207@gmx.net>
+Message-ID: <424ABDA5.1020205@gmx.net>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Jan Giesecke wrote:
+
+> Hi :)
+>
+> Bei der Suche nach einer Engine sind mir mehrere ins Auge gefallen.
+> Ich werde die hier kurz vorstellen und zur Diskussion stellen.
+>
+> Crystal Space -------------
+>
+> CS ist eine sehr umfangreiche und beliebte Spiele-Engine. Die
+> Features sind unter
+> http://crystal.sourceforge.net/docs/online/manual-0.98/cs_6.html
+> aufgelistet. Bei CS sind bereits Routinen f?r Sound und so
+> enthalten.
+>
+> OGRE ----
+>
+> OGRE ist eine reine Grafik-Engine, also nicht so auf Spiele
+> orientiert, wie CS. Allerdings ist sie auch unter den Spielemachern
+> sehr beliebt. Features:
+> http://www.ogre3d.org/wiki/index.php/CurrentOgreFeatures
+>
+> Irrlicht --------
+>
+> Recht frische, allerdings nur von einer einzigen Person entwickelte
+> Engine. Die Screenshots sehen vielversprechend aus. Features:
+> http://irrlicht.sourceforge.net/features.html
+>
+> NeoEngine ---------
+>
+> Hab ich nur zuf?llig gefunden, hab's mir aber noch nicht genauer
+> angesehen. :D http://neoengine.emedia-solutions-wolf.de/
+>
+> Sooo... Das w?re dann sozusagen die engere Auswahl, die wir noch
+> mehr einengen m?ssen, so dass genau eine ?brig bleibt :D Wie
+> sch?tzt ihr die Lage ein? Welche w?rdet ihr nehmen?
+>
+> Gru?, Jan _______________________________________________
+> Littlewinnigton-dev mailing list
+> Littlewinnigton-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/littlewinnigton-dev
+>
+>
+Alle davon laufen sowohl auf *nix wie auf MS Windows?
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFCSr2lU6w5/795Df0RAo5kAJ46itUaYzgagM9qCLvIU30bpqJA0wCeIiwx
+Rzms7An59Vm3n8Qa1ztB9o4=
+=LbXP
+-----END PGP SIGNATURE-----
+
+
+
+From JGiesecke at gmx.net  Wed Mar 30 16:58:14 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Wed, 30 Mar 2005 16:58:14 +0200
+Subject: [Littlewinnigton-dev] Engine
+In-Reply-To: <424ABDA5.1020205@gmx.net>
+References: <424ABB0D.10207@gmx.net> <424ABDA5.1020205@gmx.net>
+Message-ID: <424ABE86.1080507@gmx.net>
+
+-----BEGIN PGP MESSAGE-----
+Charset: ISO-8859-1
+Version: GnuPG v1.2.5 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+hQIOA5nJoiY4qgN2EAf/TkkYh/kQSoe/WqY3QE4Pl690xLyT4KSqRZDGAHhXyoXW
+vBuxx9W4ZT1IfToRu072qYpev1wyeOB6oFWMMVE66CnbEifFxJRmRnWoiBHXoZ+l
+IOzm+LRBkEHxaRuQ79cMVj2NgvS0g6ukdyjMePq7rJsPHkhwys51amTmCCns2Ojb
+8PsBNZJAtJWnX84IsQfWBmlUCIdHsqvbZp4e6m4Cd9P17cSGEizZIBvcf26XznqG
+P9p2yZ1Ue9Q0pcmRCioL/gH2Hv69CZrLy1vtuFvx2UISHJnzntzRzL9F6lEKWJcq
+irld5WjYfAZvU/hAqQMd04TA237omSIfo/R29bQ7YAf9FWoRu+kP8MCBBmVTdnnO
+omqiFGiCEEJocoxxA97IDkEIGq4WUrNxbVvwP3M251ViV/OekMc9wYmE+3li3dWd
+FdnJ4eVjMOqv+3aF97czqpJY2HiYgTIMRiPSJSMpFIi0KfLcuuCMHvIG/s61GdGC
+Z2iUqNLh5bZqXTcugYd5vytzrBLlEfjyuv2TUvnfJDpMu0Dhsa380itZc600ybWZ
+z+Ik887VT+VuyOnOYLeiPIwoMEZ8Kht92rvcRKzno6sKIYQCpfh8c4q16cUBTkid
+Y2jW5S6xiiYOsPPJC6eoG/0lBwATPbgA22sNNkQ7ANwsVshdEEDKvR7rPd7dh1Yu
+BNLpAa8efooj2DOYM/N8bV3x86KhO3Jfo28pJih3gzNcz0o29dGhwLlZDAQnt5lq
+Gdy+7OLzrBUdOIeBOU7y5iQLKf7ajtbM7qhLJsbUwB1/6dzDl+AHbxttQJsw8dVh
+e294MuigN9vDDuDKihja4rCqfAFoLLf+GGzPl+SyeTuaIVJtQkV1nrdJvEj7IWe7
+9+AU0eQWcprB5V6+7j8uxnD09szJ/3eKiMprtYsr7GLsykZq1oQsNqPWZ5QfWn1S
+Xn8H68tvJ8r62d9fGhYFDxm3hzeRMwuXo3AabV22PeZZlsotDtc3bZw2hN+5GNOf
+9gABxgg2dfzKQldD0nZHYN1DOGX+fCU0revi6W7vCPbkLU61C3gIjAV/OPja7GUY
+tjlIW+C40XP0eMMyZXcicSCERbbugk2DwIPTpXvjRXDVXrP9wJOs6jAQVFnmaufG
+BC66OoeBywTV2xO/s3IXOY3D+89lRFA54Ds9Yh/G0SsRFJXbS7QH9ckPWUyfTRCY
+08no4sqXqaupeepQofmQOMpVPM2ap39SBVGzCJo61Y9IEhL6k3vhxkIIqNFGx2A2
+YpUh4Go8YUmAWm7IkRQb+Xemymthva6hi3tD5oaOLKYzzz+gJvDHsaJWzzr8l4Xo
+sCCEhKbGWzgCsA/vwCVrZE9WAP5fSCFVwUv1FaUk4p6P0gTA0iv3uosSgBAhEjQh
+ObqnpYdprhGYqRhcec5ryGCFUZOqFWdtjFOkL6RlFtZhacsxH9UN43S6WiXe8ZRM
+AAwJAErjQVv7PV1y1wdPXDCndtZoGPxP/R4jpemA83C91Sqhr52NT1BdxV+bFR49
+LmnEu3e9O1/ZdL6l/QkvGzfJSFcK3kBqNIy8kN3VQX46IjHYKQL2pPjGvyqOkntC
+7aio/wRHfnHV7MCVIr87pMX3Ty1g9WGGHrq99+UMPOEMpX5p36bNnztESwoY6vTF
+AW/iIX/krHRF8u4Oj8jmFnSIKoLKej36kU/u6s1lJETkgyH7FACkUEajP5IYKgyr
+MLaLRcEPVdYWBXP2wBQhMo40ggo/2hnqL9jt33kPxAZS6uOMsNPvruqelwvxmGqc
+th/8R3WKDYKNorFpsmqiwXpb8wp+s28Z6KdJCYRUStgNRpLS1nIOeo51tO+6qiEC
+fYN1n6ne7nXPLfGhBizo0HsnW9QblO+NUSNF7HGLP7g+Ial68pfJRC014AHSu01V
+sy3iRaNbRQ==
+=jumU
+-----END PGP MESSAGE-----
+
+
+
+From JGiesecke at gmx.net  Wed Mar 30 17:01:58 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Wed, 30 Mar 2005 17:01:58 +0200
+Subject: [Littlewinnigton-dev] Engine
+In-Reply-To: <424ABDA5.1020205@gmx.net>
+References: <424ABB0D.10207@gmx.net> <424ABDA5.1020205@gmx.net>
+Message-ID: <424ABF66.1020906@gmx.net>
+
+daniel schrieb:
+> Jan Giesecke wrote:
+> 
+> 
+>>>Hi :)
+>>>
+>>>Bei der Suche nach einer Engine sind mir mehrere ins Auge gefallen.
+>>>Ich werde die hier kurz vorstellen und zur Diskussion stellen.
+>>>
+>>>Crystal Space -------------
+>>>
+>>>CS ist eine sehr umfangreiche und beliebte Spiele-Engine. Die
+>>>Features sind unter
+>>>http://crystal.sourceforge.net/docs/online/manual-0.98/cs_6.html
+>>>aufgelistet. Bei CS sind bereits Routinen f?r Sound und so
+>>>enthalten.
+>>>
+>>>OGRE ----
+>>>
+>>>OGRE ist eine reine Grafik-Engine, also nicht so auf Spiele
+>>>orientiert, wie CS. Allerdings ist sie auch unter den Spielemachern
+>>>sehr beliebt. Features:
+>>>http://www.ogre3d.org/wiki/index.php/CurrentOgreFeatures
+>>>
+>>>Irrlicht --------
+>>>
+>>>Recht frische, allerdings nur von einer einzigen Person entwickelte
+>>>Engine. Die Screenshots sehen vielversprechend aus. Features:
+>>>http://irrlicht.sourceforge.net/features.html
+>>>
+>>>NeoEngine ---------
+>>>
+>>>Hab ich nur zuf?llig gefunden, hab's mir aber noch nicht genauer
+>>>angesehen. :D http://neoengine.emedia-solutions-wolf.de/
+>>>
+>>>Sooo... Das w?re dann sozusagen die engere Auswahl, die wir noch
+>>>mehr einengen m?ssen, so dass genau eine ?brig bleibt :D Wie
+>>>sch?tzt ihr die Lage ein? Welche w?rdet ihr nehmen?
+>>>
+>>>Gru?, Jan _______________________________________________
+>>>Littlewinnigton-dev mailing list
+>>>Littlewinnigton-dev at lists.berlios.de
+>>>http://lists.berlios.de/mailman/listinfo/littlewinnigton-dev
+>>>
+>>>
+> 
+> Alle davon laufen sowohl auf *nix wie auf MS Windows?
+Auf Linux und MS Windows laufen sie alle. Wie es mit dem Rest aussieht, 
+wei? ich nicht so genau :D
+
+Gru?, Jan
+
+
+From daniel.hassler at gmail.com  Wed Mar 30 17:16:31 2005
+From: daniel.hassler at gmail.com (daniel)
+Date: Wed, 30 Mar 2005 17:16:31 +0200
+Subject: [Littlewinnigton-dev] Engine
+In-Reply-To: <424ABB0D.10207@gmx.net>
+References: <424ABB0D.10207@gmx.net>
+Message-ID: <424AC2CF.6030006@gmx.net>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Nachdem ich mir die engines angeschaut habe, machte Ogre den besten
+Eindruck auf mich. Crystal Space ist aber auch nicht schlecht, was
+meint ihr?
+
+> Hi :)
+>
+> Bei der Suche nach einer Engine sind mir mehrere ins Auge gefallen.
+> Ich werde die hier kurz vorstellen und zur Diskussion stellen.....
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFCSsLOU6w5/795Df0RAgmWAJoDc1WEuCgh+NtGb6T2/6L8g9dgNwCeOrSE
+6+giNDYLUuZJwT8VTQI5LR8=
+=kQER
+-----END PGP SIGNATURE-----
+
+
+
+From JGiesecke at gmx.net  Wed Mar 30 21:34:59 2005
+From: JGiesecke at gmx.net (Jan Giesecke)
+Date: Wed, 30 Mar 2005 21:34:59 +0200
+Subject: [Littlewinnigton-dev] Engine
+In-Reply-To: <424AC2CF.6030006@gmx.net>
+References: <424ABB0D.10207@gmx.net> <424AC2CF.6030006@gmx.net>
+Message-ID: <424AFF63.2060507@gmx.net>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+daniel schrieb:
+| Nachdem ich mir die engines angeschaut habe, machte Ogre den besten
+| Eindruck auf mich. Crystal Space ist aber auch nicht schlecht, was
+| meint ihr?
+|
+|
+|>>Hi :)
+|>>
+|>>Bei der Suche nach einer Engine sind mir mehrere ins Auge gefallen.
+|>>Ich werde die hier kurz vorstellen und zur Diskussion stellen.....
+|
+Und da wir endlich mal zu einer Entscheidung kommen m?ssen, lege ich
+hiermit fest, dass wir die Engine "Crystal Space" verwenden werden.
+Infos zu dieser Engine gibt es unter http://www.crystalspace3d.org/.
+
+Bitte arbeitet euch da rein (ich mach's auch ;)) und dann sehen wir
+weiter :)
+
+Gru?, Jan
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.5 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFCSv9jRx7sw+xTdj8RAmdCAJ9JwsaR370erlldpZ7cTZKvLLZyRACeILkN
+N9t03g23/aPV7vngN4Gj7T0=
+=ppqb
+-----END PGP SIGNATURE-----
+
+
